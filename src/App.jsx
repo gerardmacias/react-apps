@@ -77,7 +77,7 @@ export function App() {
           <div className="col-4">
             <Logo
               image={logoImg}
-              title="Watch it"
+              title="TV Show App"
               subtitle="Find a show you may like"
             />
           </div>
